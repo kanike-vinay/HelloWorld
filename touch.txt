@@ -1,1 +1,1 @@
-hello.class  hello.java  touch.txt
+hello.class  hello.javac  touch.txt
